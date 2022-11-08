@@ -20,6 +20,8 @@
         "eol-last":"off",
         "keyword-spacing":"off",
         "consistent-return":"off",
-        "no-else-return":"off"
+        "no-else-return":"off",
+        "no-underscore-dangle":"off",
+        "class-methods-use-this":"off"
     }
 }
